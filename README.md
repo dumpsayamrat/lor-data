@@ -2,9 +2,9 @@
 This is a repo where I practice and try to learn tech stack for data engineering
 
 ## What have I learned so far?
-Data exploration: [Selenuim](https://www.selenium.dev/)
-Data processing: [Parquet](https://parquet.apache.org/) and [Spark](https://spark.apache.org/)
-Data orchestration platform: [Dagster](https://dagster.io/)
+- Data exploration: [Selenuim](https://www.selenium.dev/)
+- Data processing: [Parquet](https://parquet.apache.org/) and [Spark](https://spark.apache.org/)
+- Data orchestration platform: [Dagster](https://dagster.io/)
 
 
 ## What's next?
