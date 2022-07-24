@@ -1,0 +1,10 @@
+env
+
+pipelines/*
+
+!pipelines/pipelines
+!pipelines/pipelines_tests
+!pipelines/README.md
+!pipelines/requirement.txt
+!pipelines/setup.py
+!pipelines/workspace.yaml
